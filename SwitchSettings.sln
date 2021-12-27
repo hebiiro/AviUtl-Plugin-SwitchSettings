@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwitchSettingsDLL", "SwitchSettingsDLL\SwitchSettingsDLL.vcxproj", "{19485173-A90F-4C52-A3E4-8873B87F2E64}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwitchSettings", "SwitchSettings\SwitchSettings.vcxproj", "{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{186B7A52-2E8B-4548-84B8-3C27781D8990}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Debug|x64.ActiveCfg = Debug|x64
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Debug|x64.Build.0 = Debug|x64
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Debug|x86.ActiveCfg = Debug|Win32
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Debug|x86.Build.0 = Debug|Win32
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Release|x64.ActiveCfg = Release|x64
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Release|x64.Build.0 = Release|x64
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Release|x86.ActiveCfg = Release|Win32
+		{19485173-A90F-4C52-A3E4-8873B87F2E64}.Release|x86.Build.0 = Release|Win32
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Debug|x64.ActiveCfg = Debug|x64
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Debug|x64.Build.0 = Debug|x64
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Debug|x86.Build.0 = Debug|Win32
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Release|x64.ActiveCfg = Release|x64
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Release|x64.Build.0 = Release|x64
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Release|x86.ActiveCfg = Release|Win32
+		{A07E64DF-C0D6-4155-8303-F2AF9B860AAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F73712-35B3-45DC-891D-A4ADC727C31E}
+	EndGlobalSection
+EndGlobal
